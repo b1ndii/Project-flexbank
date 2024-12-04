@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.person {border-radius: 100%;}
+
+.drejtkendsh {
+    height: 100px;
+    width: 500px;
+    background-color: gray;
+}
