@@ -6,8 +6,50 @@
 
 .person {border-radius: 100%;}
 
-.drejtkendsh {
-    height: 100px;
+.drejtkendshi1 {
+    height: 80px;
     width: 500px;
     background-color: gray;
+    display: flex;
+}
+
+.fotoedrejtkendshit {
+    height: 80px;
+    width: 80px
+}
+
+.posht-mes-drejtkendsh {
+    display: flex;
+}
+
+.done {
+    
+    margin-top: 0;
+    margin-left: 7px;
+}
+
+.div-i-done {
+    height: 20px;
+    width: 50px;
+    border: solid 1px rgb(26, 26, 254);
+    margin-left: 20px;
+    margin-top: -10px;
+    border-radius: 10%;
+}
+
+.ana-e-djatht-e-drejtkendshit {
+    margin-left: 85px;
+    width: 100px;
+}
+
+.numrat-e-pagesave {
+    color: red;
+    padding: 7px;
+}
+
+.drejtkendshi2 {
+    height: 80px;
+    width: 500px;
+    background-color: gray;
+    display: flex;
 }
