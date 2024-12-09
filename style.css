@@ -9,8 +9,9 @@
 .drejtkendshi {
     height: 80px;
     width: 500px;
-    background-color: gray;
     display: flex;
+    margin-top: 20px;
+
 }
 
 .netflix {
@@ -37,29 +38,73 @@
     border-radius: 10%;
 }
 
-.ana-e-djatht-e-drejtkendshit {
-    margin-left: 85px;
-    width: 100px;
-}
-
 .numrat-e-pagesave {
     color: red;
-    padding: 7px;
 }
 
-.drejtkendshi {
-    height: 80px;
-    width: 500px;
-    background-color: gray;
+.numrat-e-pagesave-pozitiv {
+    color: green;
+}
+
+.ana-e-djatht-e-drejtkendshit1 {
+    margin-left: 100px;
+    width: 100px;
     display: flex;
+    justify-content: center;
+}
+
+.ana-e-djatht-e-drejtkendshit2 {
+    margin-left: 125px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.ana-e-djatht-e-drejtkendshit3 {
+    margin-left: 152px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.ana-e-djatht-e-drejtkendshit4 {
+    margin-left: 120px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.ana-e-djatht-e-drejtkendshit5 {
+    margin-left: 170px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
 }
 
 .spotify {
     height: 70px;
-    width: 70px
+    width: 70px;
+    border-radius: 100%;
 }
 
 .sylvia {
-    height: 70px;
-    width: 70px
+    height: 60px;
+    width: 60px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.div-i-proccesing {
+    height: 20px;
+    width: 85px;
+    border: solid 1px yellow;
+    margin-left: 20px;
+    margin-top: -10px;
+    border-radius: 10%;
+}
+
+.proccesing {
+    margin-top: 0;
+    margin-left: 7px;
 }
