@@ -14,6 +14,7 @@
     background-color: gray;
     height: 660px;
     width: 500px;
+    margin-left: 100px;
 }
 
 .person {border-radius: 100%;}
@@ -124,12 +125,35 @@
 .katrori-kaltert {
     display: flex;
     background-color: blue;
-    height: 200px;
-    width: 500px;
+    padding: 30px;
+    border-radius: 10px;
 }
 
 .djatht-kryesori {
     background-color: gray;
     height: 660px;
     width: 500px;
+    margin-right: 100px;
+}
+
+.bardh {
+    color: white;
+}
+
+.primary {
+    color: white;
+    display: flex;
+    align-items: start;
+    margin-left: 20px;
+    border: solid 2px white;
+    border-radius: 20%;
+}
+
+.paret-primary {
+    display: flex;
+    align-items: center;
+}
+
+.djatht-katrorit-kaltert {
+    margin-left: 100px;
 }
